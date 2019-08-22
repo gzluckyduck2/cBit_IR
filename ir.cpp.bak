@@ -53,7 +53,7 @@ enum class RemoteButton {
 
 //% color=50 weight=19
 //% icon="\uf1eb"
-namespace cbit_IR { 
+namespace Mbit_IR { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
   Timer tsb; 
