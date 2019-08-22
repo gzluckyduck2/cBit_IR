@@ -4,7 +4,7 @@ Extension for ZYRobot cbit_IR
 
 Note: IR receiver for ZYRobot receiver
 
-Modified by Philip He
+Modified by Philip He 2019.08.22
 ## License
 
 MIT
